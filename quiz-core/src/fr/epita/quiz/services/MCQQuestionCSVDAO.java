@@ -1,4 +1,4 @@
-package fr.epita.quiz.datamodel;
+package fr.epita.quiz.services;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -11,7 +11,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
-import fr.epita.quiz.services.Configuration;
+import fr.epita.quiz.datamodel.MCQQuestion;
 
 public class MCQQuestionCSVDAO {
 

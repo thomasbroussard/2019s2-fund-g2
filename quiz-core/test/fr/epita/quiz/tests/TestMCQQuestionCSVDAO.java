@@ -1,7 +1,7 @@
 package fr.epita.quiz.tests;
 
 import fr.epita.quiz.datamodel.MCQQuestion;
-import fr.epita.quiz.datamodel.MCQQuestionCSVDAO;
+import fr.epita.quiz.services.MCQQuestionCSVDAO;
 
 public class TestMCQQuestionCSVDAO {
 
